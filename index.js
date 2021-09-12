@@ -1,4 +1,4 @@
-// INICIANDO LAB
+// INICIANDO LAB.
 
 const mongoose = require("mongoose");
 
